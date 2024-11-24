@@ -33,5 +33,5 @@ Feedback and Improvement: Gathered feedback from classmates and faculty to impro
 
 ## Project Report File
 
-![report-file]([https://github.com/mdarman4002/Twitter-Sentiment-Analysis-Project/blob/main/Project_Report.pdf](https://github.com/Mohammadshoyebb/Twitter-Sentiment-Analyzer/blob/main/Project_Report.pdf)
+![report-file](https://github.com/Mohammadshoyebb/Twitter-Sentiment-Analyzer/blob/main/Project_Report.pdf)
 
